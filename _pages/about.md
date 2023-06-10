@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! This is Hudson Yeo's website :)"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,8 +14,8 @@ I'm currently at [Wayve](https://wayve.ai) in London working on fun autonomous d
 Research interests
 ======
 
-My work focuses a lot on computer vision models. I'm in the World Models team at Wayve so a lot of my work revolves around improving representation learning for embodied AI. 
-I've had a great time working on image segmentation, depth estimation, self-supervised learning and more! Generative AI is a huge interest of mine, and I've been working on diffusion models a lot recently.
+My research focuses on computer vision. I'm in the World Models team at Wayve so my projects have been about improving representation learning for embodied AI. 
+More specifically, I've had a great time working on image segmentation, depth estimation, self-supervised learning and more. Generative AI is a huge interest of mine, recently I've been working on diffusion models. 
 
 Contact me!
 ------
